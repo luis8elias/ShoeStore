@@ -1,5 +1,7 @@
 # ShoeStore
 
+my  java version  is "1.8.0_261"
+
 1.clone the project 
 
 2.add the dependency
